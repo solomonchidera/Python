@@ -3,6 +3,7 @@ Just where I will be playing and writing some random python codes for fun or pai
 
 - Every directory here will be based on a particular concept on python
 > Warning: Am actually A master degree holder on procastination I hope I can do this (Writing and documenting every single day)
+
 #### What is going on?
 
 | Question❓ | Answer💯 |
