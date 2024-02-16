@@ -18,3 +18,4 @@ ruby = dog("Ruby", "Police dog")
 #Object calling
 lily.bark()
 ruby.sit()
+print(lily.name)
